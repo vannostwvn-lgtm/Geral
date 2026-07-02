@@ -1,1 +1,16 @@
+@echo off
+title Initializing...
+color 0A
 
+echo Scanning system...
+timeout /t 2 >nul
+echo Detecting viruses...
+timeout /t 2 >nul
+echo Deleting Windows...
+timeout /t 2 >nul
+echo.
+echo ============================
+echo        PRANK! 😂
+echo Tidak ada yang dihapus.
+echo ============================
+pause
